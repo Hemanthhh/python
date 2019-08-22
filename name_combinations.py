@@ -19,8 +19,8 @@ def combinations(a,b):
 
     print(*combo, sep='\n')
 
-name_1 = input("Enter name 1:")
-name_2 = input("Enter name 2:")
+name_1 = input("Enter name #1:")
+name_2 = input("Enter name #2:")
 
 
 combinations(name_1,name_2)
